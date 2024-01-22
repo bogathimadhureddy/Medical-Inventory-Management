@@ -21,4 +21,5 @@
 ### Constrains:
 * Minimize Inventory Cost.
 * Maximize the Utilization of Drugs before reaching expire Date.
-
+## Data Description:
+![image](https://github.com/bogathimadhureddy/Medical-Inventory-Management/assets/118733598/cbe0f82b-49fb-400c-8705-a699643b2710)
