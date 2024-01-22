@@ -10,14 +10,15 @@
 * In supply chain management, optimization goes hand-in-hand with inventory control to address several issues of the supply, management, and use of drugs. 
 * To avoid the shortage problem in a hospital, efficient inventory management is required to operate the system in a sustainable way and maximize the profit of the organization in the Hospital Supply Chain (HSC).
 
+## Project Overview and Scope:
+
+![Medical Inventory AC](medical%20inventory_AC.svg)
+
+
 ## Business Objective And Constrains:
 ### Objective:
 * Minimize Bouncing Rate.
 ### Constrains:
 * Minimize Inventory Cost.
 * Maximize the Utilization of Drugs before reaching expire Date.
-
-## Project Overview and Scope:
-
-![Medical Inventory AC](medical%20inventory_AC.svg)
 
